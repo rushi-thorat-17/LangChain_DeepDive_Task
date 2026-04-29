@@ -2,7 +2,7 @@
 
 This project is a practical exploration of **LangChain**, focusing on how to build intelligent applications using prompt engineering, chains, and modular AI components.
 
----
+--- 
  
 ## 🚀 About the Project 
 
