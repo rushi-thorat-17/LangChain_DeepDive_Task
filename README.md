@@ -4,7 +4,7 @@ This project is a practical exploration of **LangChain**, focusing on how to bui
 
 ---
  
-## 🚀 About the Project
+## 🚀 About the Project 
 
 This notebook explains and demonstrates the core concepts of **LangChain** in a structured way.  
 It covers how to design prompts, create chains, and build reusable AI workflows.
